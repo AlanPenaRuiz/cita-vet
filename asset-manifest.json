@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/cita-vet/static/css/main.b8a6c26f.chunk.css",
+    "main.js": "/cita-vet/static/js/main.d260ee05.chunk.js",
+    "main.js.map": "/cita-vet/static/js/main.d260ee05.chunk.js.map",
+    "runtime-main.js": "/cita-vet/static/js/runtime-main.8c1150ab.js",
+    "runtime-main.js.map": "/cita-vet/static/js/runtime-main.8c1150ab.js.map",
+    "static/js/2.2aca169f.chunk.js": "/cita-vet/static/js/2.2aca169f.chunk.js",
+    "static/js/2.2aca169f.chunk.js.map": "/cita-vet/static/js/2.2aca169f.chunk.js.map",
+    "index.html": "/cita-vet/index.html",
+    "precache-manifest.380e3b01a65fc83f397a4c23184d8d1d.js": "/cita-vet/precache-manifest.380e3b01a65fc83f397a4c23184d8d1d.js",
+    "service-worker.js": "/cita-vet/service-worker.js",
+    "static/css/main.b8a6c26f.chunk.css.map": "/cita-vet/static/css/main.b8a6c26f.chunk.css.map",
+    "static/js/2.2aca169f.chunk.js.LICENSE.txt": "/cita-vet/static/js/2.2aca169f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8c1150ab.js",
+    "static/js/2.2aca169f.chunk.js",
+    "static/css/main.b8a6c26f.chunk.css",
+    "static/js/main.d260ee05.chunk.js"
+  ]
+}
